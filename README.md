@@ -23,4 +23,4 @@ Data Source:
 10. **Product Performance:**
     - Provided detailed metrics for each product (revenue, cost, profit, orders).
 11. **Key Influencers of Revenue:**
-    - Identified factors (category, supervisor, brand, status) that drive revenue
+    - Identified factors (category, supervisor, brand, status) that drive revenue.
