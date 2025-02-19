@@ -25,6 +25,9 @@ Data Source:
 11. **Key Influencers of Revenue:**
     - Identified factors (category, supervisor, brand, status) that drive revenue.
 ## Dashboards :
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+1. Overview Dahboard :
+![Overview Dahboard](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+2. Performance Dahboard :
+![Performance Dahboard](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+3. Product Details Dahboard :
+![Product Details Dahboard](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
