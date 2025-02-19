@@ -25,9 +25,9 @@ Data Source:
 11. **Key Influencers of Revenue:**
     - Identified factors (category, supervisor, brand, status) that drive revenue.
 ## Dashboards :
-1. Overview Dahboard :
+1. **Overview Dahboard** :
 ![Overview Dahboard](https://github.com/Shamss08/Online_Retail_Analysis_Using_PBI/blob/main/Overview.PNG)
-2. Performance Dahboard :
+2. **Performance Dahboard** :
 ![Performance Dahboard](https://github.com/Shamss08/Online_Retail_Analysis_Using_PBI/blob/main/Performance.PNG)
-3. Product Details Dahboard :
+3. **Product Details Dahboard** :
 ![Product Details Dahboard](https://github.com/Shamss08/Online_Retail_Analysis_Using_PBI/blob/main/Product_Details.PNG)
