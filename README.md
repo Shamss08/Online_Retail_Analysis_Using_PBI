@@ -1,7 +1,7 @@
 # Online Retail Analysis - Power BI 
 Data Source:
 [Online Ecommerce Dataset](https://www.kaggle.com/datasets/ayushparwal2026/online-ecommerce)
-## Business Questions & Analysis Approach
+## Business Questions & Analysis Approach :
 1. **Comparison to Previous Year:** 
    - Analyzed revenue, cost, profit, orders, and quantity for the current year vs. the previous year.
 2. **Growth Percentage:**
@@ -24,3 +24,4 @@ Data Source:
     - Provided detailed metrics for each product (revenue, cost, profit, orders).
 11. **Key Influencers of Revenue:**
     - Identified factors (category, supervisor, brand, status) that drive revenue.
+## Dashboards :
