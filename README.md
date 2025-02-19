@@ -3,7 +3,7 @@ Data Source:
 [Online Ecommerce Dataset](https://www.kaggle.com/datasets/ayushparwal2026/online-ecommerce)
 ## Business Questions & Analysis Approach
 1. **Comparison to Previous Year:**
-⋅⋅* Analyzed revenue, cost, profit, orders, and quantity for the current year vs. the previous year.
+⋅⋅*Analyzed revenue, cost, profit, orders, and quantity for the current year vs. the previous year.
 2. **Growth Percentage:**
 
 Measured year-over-year growth for revenue, cost, profit, orders, and quantity.
