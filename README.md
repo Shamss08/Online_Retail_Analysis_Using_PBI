@@ -26,8 +26,8 @@ Data Source:
     - Identified factors (category, supervisor, brand, status) that drive revenue.
 ## Dashboards :
 1. Overview Dahboard :
-![Overview Dahboard](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Overview Dahboard](https://github.com/Shamss08/Online_Retail_Analysis_Using_PBI/blob/main/Overview.PNG)
 2. Performance Dahboard :
-![Performance Dahboard](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Performance Dahboard](https://github.com/Shamss08/Online_Retail_Analysis_Using_PBI/blob/main/Performance.PNG)
 3. Product Details Dahboard :
-![Product Details Dahboard](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Product Details Dahboard](https://github.com/Shamss08/Online_Retail_Analysis_Using_PBI/blob/main/Product_Details.PNG)
