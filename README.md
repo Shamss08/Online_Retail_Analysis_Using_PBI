@@ -21,6 +21,6 @@ Data Source:
 9. **Category Performance by Brand:**
    - Analyzed product categories within each brand.
 10. **Product Performance:**
-   - Provided detailed metrics for each product (revenue, cost, profit, orders).
+    - Provided detailed metrics for each product (revenue, cost, profit, orders).
 11. **Key Influencers of Revenue:**
     - Identified factors (category, supervisor, brand, status) that drive revenue
